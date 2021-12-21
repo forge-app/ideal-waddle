@@ -1,0 +1,11 @@
+name: name
+id: 'ari:cloud:compass:b8c32773-0d94-4821-ab57-773f3cc2466f:component/8271d06b-39a7-4bcd-a8ca-1836fce60c22/a442e392-4b2b-47a4-a651-1d16e6e3a287'
+description: null
+ownerId: null
+fields:
+  tier: 4
+links: []
+relationships: {}
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
